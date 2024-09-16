@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+
+# You can disallow specific folders or files here
+# For example, to disallow indexing of the /admin directory:
+# Disallow: /admin/
