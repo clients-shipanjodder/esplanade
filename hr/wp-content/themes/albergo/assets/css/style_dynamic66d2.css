@@ -1,0 +1,123 @@
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/assets/custom-styles/general-custom-styles.php albergo_elated_design_styles function */
+.eltd-preload-background { background-image: url(../../../../uploads/2019/10/esplanade_grafika_patern.jpg) !important;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/assets/custom-styles/general-custom-styles.php albergo_elated_h2_styles function */
+h2 { font-size: 56px;line-height: 56px;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/assets/custom-styles/general-custom-styles.php albergo_elated_h5_styles function */
+h5 { color: #a58a55;font-family: Raleway;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/assets/custom-styles/general-custom-styles.php albergo_elated_h6_styles function */
+h6 { color: #a58a55;font-family: Raleway;font-size: 16px;line-height: 16px;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/assets/custom-styles/general-custom-styles.php albergo_elated_text_styles function */
+p { font-family: Raleway;font-size: 17px;line-height: 17px;font-weight: 300;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/assets/custom-styles/general-custom-styles.php albergo_elated_link_styles function */
+a, p a { color: #a58a55;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/assets/custom-styles/general-custom-styles.php albergo_elated_link_hover_styles function */
+a:hover, p a:hover { color: #6b4c2d;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/assets/custom-styles/general-custom-styles.php albergo_elated_link_hover_styles function */
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover { color: #6b4c2d;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/contactform7/custom-styles/contact-form.php albergo_elated_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { font-family: Raleway;font-weight: 300;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/contactform7/custom-styles/contact-form.php albergo_elated_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { font-family: Raleway;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/contactform7/custom-styles/contact-form.php albergo_elated_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { font-family: Raleway;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/contactform7/custom-styles/contact-form.php albergo_elated_contact_form7_label_styles_2 function */
+.cf7_custom_style_2 p { font-family: Raleway;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/contactform7/custom-styles/contact-form.php albergo_elated_contact_form7_button_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { font-family: Raleway;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/contactform7/custom-styles/contact-form.php albergo_elated_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { font-family: Raleway;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/contactform7/custom-styles/contact-form.php albergo_elated_contact_form7_button_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit { font-family: Raleway;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/error404/custom-styles/custom-styles.php albergo_elated_404_page_general_styles function */
+.eltd-404-page .eltd-content { background-image: url(../../../../uploads/2019/10/esplanade-testimonials2.jpg);background-position: center 0;background-size: cover;background-repeat: no-repeat;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/footer/admin/custom-styles/footer-custom-styles.php albergo_elated_footer_top_general_styles function */
+.eltd-page-footer .eltd-footer-top-holder { background-color: #584446;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/footer/admin/custom-styles/footer-custom-styles.php albergo_elated_footer_bottom_general_styles function */
+.eltd-page-footer .eltd-footer-bottom-holder { background-color: #584446;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/footer/admin/custom-styles/footer-custom-styles.php albergo_elated_footer_bottom_general_styles function */
+.eltd-page-footer .eltd-footer-bottom-holder .eltd-footer-bottom-inner { border-top-color: #9d814f;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/types/fixed-header/admin/custom-styles/fixed-header-custom-styles.php albergo_elated_fixed_header_styles function */
+.eltd-fixed-wrapper.fixed .eltd-main-menu > ul > li > a { font-family: Raleway;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/types/mobile-header/admin/custom-styles/mobile-header-custom-styles.php albergo_elated_mobile_navigation_styles function */
+.eltd-mobile-header .eltd-mobile-nav .eltd-grid > ul > li > a, .eltd-mobile-header .eltd-mobile-nav .eltd-grid > ul > li > h6 { color: #9d814f;font-family: Raleway;font-weight: 600;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/types/mobile-header/admin/custom-styles/mobile-header-custom-styles.php albergo_elated_mobile_navigation_styles function */
+.eltd-mobile-header .eltd-mobile-nav .eltd-grid > ul > li.eltd-active-item > a, .eltd-mobile-header .eltd-mobile-nav .eltd-grid > ul > li.eltd-active-item > h6, .eltd-mobile-header .eltd-mobile-nav .eltd-grid > ul > li > a:hover, .eltd-mobile-header .eltd-mobile-nav .eltd-grid > ul > li > h6:hover { color: #584446;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/types/mobile-header/admin/custom-styles/mobile-header-custom-styles.php albergo_elated_mobile_navigation_styles function */
+.eltd-mobile-header .eltd-mobile-nav ul ul li a, .eltd-mobile-header .eltd-mobile-nav ul ul li h6 { color: #584446;font-family: Raleway;text-transform: uppercase;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/types/mobile-header/admin/custom-styles/mobile-header-custom-styles.php albergo_elated_mobile_navigation_styles function */
+.eltd-mobile-header .eltd-mobile-nav ul ul li.current-menu-ancestor > a, .eltd-mobile-header .eltd-mobile-nav ul ul li.current-menu-item > a, .eltd-mobile-header .eltd-mobile-nav ul ul li.current-menu-ancestor > h6, .eltd-mobile-header .eltd-mobile-nav ul ul li.current-menu-item > h6, .eltd-mobile-header .eltd-mobile-nav ul ul li a:hover, .eltd-mobile-header .eltd-mobile-nav ul ul li h6:hover { color: #a58a55;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/types/mobile-header/admin/custom-styles/mobile-header-custom-styles.php albergo_elated_mobile_icon_styles function */
+.eltd-mobile-header .eltd-mobile-menu-opener a { color: #a58a55;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/types/mobile-header/admin/custom-styles/mobile-header-custom-styles.php albergo_elated_mobile_icon_styles function */
+.eltd-mobile-header .eltd-mobile-menu-opener a:hover, .eltd-mobile-header .eltd-mobile-menu-opener.eltd-mobile-menu-opened a { color: #584446;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/types/sticky-header/admin/custom-styles/sticky-header-custom-styles.php albergo_elated_sticky_header_styles function */
+.eltd-page-header .eltd-sticky-header .eltd-sticky-holder { background-color: rgba(255, 255, 255, 1);}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/types/sticky-header/admin/custom-styles/sticky-header-custom-styles.php albergo_elated_sticky_header_styles function */
+.eltd-main-menu.eltd-sticky-nav > ul > li > a { color: #ffffff;font-family: Raleway;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/types/sticky-header/admin/custom-styles/sticky-header-custom-styles.php albergo_elated_sticky_header_styles function */
+.eltd-main-menu.eltd-sticky-nav > ul > li:hover > a, .eltd-main-menu.eltd-sticky-nav > ul > li.eltd-active-item > a { color: #a58a55;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/types/top-header/admin/custom-styles/top-header-custom-styles.php albergo_elated_header_top_bar_styles function */
+.eltd-top-bar-background { height: 91px;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/admin/custom-styles/header-custom-styles.php albergo_elated_main_menu_styles function */
+.eltd-main-menu > ul > li > a { color: #9d814f;font-family: Raleway;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/admin/custom-styles/header-custom-styles.php albergo_elated_main_menu_styles function */
+.eltd-main-menu > ul > li > a:hover { color: #584446;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/admin/custom-styles/header-custom-styles.php albergo_elated_main_menu_styles function */
+.eltd-light-header .eltd-page-header > div:not(.eltd-sticky-header):not(.eltd-fixed-wrapper) .eltd-main-menu > ul > li > a:hover { color: #9d814f;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/admin/custom-styles/header-custom-styles.php albergo_elated_main_menu_styles function */
+.eltd-light-header .eltd-page-header > div:not(.eltd-sticky-header):not(.eltd-fixed-wrapper) .eltd-main-menu > ul > li.eltd-active-item > a { color: #584446;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/admin/custom-styles/header-custom-styles.php albergo_elated_main_menu_styles function */
+.eltd-dark-header .eltd-page-header > div:not(.eltd-sticky-header):not(.eltd-fixed-wrapper) .eltd-main-menu > ul > li > a:hover { color: #ffffff;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/admin/custom-styles/header-custom-styles.php albergo_elated_main_menu_styles function */
+.eltd-dark-header .eltd-page-header > div:not(.eltd-sticky-header):not(.eltd-fixed-wrapper) .eltd-main-menu > ul > li.eltd-active-item > a { color: #ffffff;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/admin/custom-styles/header-custom-styles.php albergo_elated_main_menu_styles function */
+.eltd-drop-down .second .inner > ul > li > a { color: #ffffff;font-family: Raleway;font-style: italic;font-weight: 300;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/admin/custom-styles/header-custom-styles.php albergo_elated_main_menu_styles function */
+.eltd-drop-down .second .inner ul li ul li a { font-family: Raleway;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/header/admin/custom-styles/header-custom-styles.php albergo_elated_main_menu_styles function */
+.eltd-drop-down .wide .second .inner ul li ul li a { font-family: Raleway;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/sidearea/admin/custom-styles/sidearea-custom-styles.php albergo_elated_side_area_icon_color_styles function */
+.eltd-side-menu-button-opener .eltd-side-menu-icon span { background-color: #a58a55;}
+
+/* generated in /home/esplanade/public_html/hr/wp-content/themes/albergo/framework/modules/sidearea/admin/custom-styles/sidearea-custom-styles.php albergo_elated_side_area_styles function */
+.eltd-side-menu { text-align: left;}
+
